@@ -5,7 +5,7 @@ import java.awt.geom.*;
 public class Cat {
 	// drawing constants are private - noone needs to know what we're doing
 	// pick a head dimension
-	private static final int HEAD_DIMENSION = 100;
+	private static final int HEAD_DIMENSION = 150;
 	// eyes will be about 1/4 from top of head and 1/4 from left
 	private static final int EYE_Y = HEAD_DIMENSION/4;
 	private static final int EYE_X = HEAD_DIMENSION/4;
@@ -30,7 +30,7 @@ public class Cat {
 		g2.setColor(Color.black);
 		g2.fillOval(x, y, HEAD_DIMENSION, HEAD_DIMENSION);
 		// Draw the eyes
-		g2.setColor(Color.green);
+		g2.setColor(Color.MAGENTA);
 		x = catX + EYE_X; 
 		y = catY + EYE_Y;
 		g2.fillOval(x, y, EYE_WIDTH, EYE_HEIGHT);
