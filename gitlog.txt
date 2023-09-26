@@ -1,0 +1,41 @@
+commit 4d09c26df199ced6374682b8812135dfd344fc3c
+Author: Kevin Zimmer <krzimmer@mines.edu>
+Date:   Tue Sep 26 13:21:11 2023 -0600
+
+    Changed color of cats head and mouth - Kevin
+
+commit 6bfacb47a3ea320dfc07faddeafe101402492b42
+Author: Ross Hodson <hodson@mines.edu>
+Date:   Tue Sep 26 13:18:51 2023 -0600
+
+    Made cat heads bigger and changed eye color to MAGENTA - Ross
+
+commit fcebdf5880a4de946e62630462457cc6153061f7
+Author: Kevin Zimmer <krzimmer@mines.edu>
+Date:   Tue Sep 26 13:16:36 2023 -0600
+
+    Added a third cat - Kevin
+
+commit 30a8938a575a602fb0c24bbb7d1413acd76d15cf
+Author: Ross Hodson <hodson@mines.edu>
+Date:   Tue Sep 26 13:12:44 2023 -0600
+
+    Added second cat - Ross
+
+commit a3d5ffea75ce3e9a137d571872887cf197a298b4
+Author: Kevin Zimmer <krzimmer@mines.edu>
+Date:   Tue Sep 26 13:09:23 2023 -0600
+
+    Moved the cats mouth - Kevin
+
+commit 19c7b7d7d3706e9b6a1719b26bbd40cbd63116cc
+Author: Ross Hodson <hodson@mines.edu>
+Date:   Tue Sep 26 13:07:13 2023 -0600
+
+    Separated cat eyes - Ross
+
+commit 30bb789d687fb517440d09730cd55cc00a9ade21
+Author: Kevin Zimmer <krzimmer@mines.edu>
+Date:   Tue Sep 26 12:56:05 2023 -0600
+
+    Intial commit
